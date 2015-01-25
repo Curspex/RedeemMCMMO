@@ -3,7 +3,7 @@ main: com.flapfactions.redeemMCMMO.main
 version: 1.1.4
 authors: [Candybuddy, Omnivion]
 description: A plugin that allows players to redeem MCMMO levels in any skill.
-softdepend: [mcMMO]
+depend: [mcMMO]
 commands:
   addcredits:
     description: Give a player credits towards MCMMO levels.
